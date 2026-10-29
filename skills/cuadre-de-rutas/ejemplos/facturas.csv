@@ -1,0 +1,7 @@
+documento,estado,uuid_simulado,metodo,moneda,total_documento,ajuste_aplicado,saldo_anterior,credito_autorizado,autorizacion,rep_previos
+D1,emitida,SIM-D1,PUE,MXN,1000.00,0.00,1000.00,0.00,,ninguno
+D2,emitida,SIM-D2,PPD,MXN,500.00,100.00,400.00,0.00,NC-2,ninguno
+D3,borrador,,PPD,MXN,400.00,0.00,400.00,400.00,CRED-3,ninguno
+D4,borrador,,PPD,MXN,200.00,0.00,200.00,200.00,CRED-4,ninguno
+D5,emitida,SIM-D5,PPD,MXN,200.00,0.00,200.00,0.00,,ninguno
+D6,emitida,SIM-D6,PPD,MXN,100.00,0.00,100.00,0.00,,ninguno

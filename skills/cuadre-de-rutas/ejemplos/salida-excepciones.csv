@@ -1,0 +1,6 @@
+id,ruta,documento,tipo,esperado,observado,diferencia,unidad,responsable,accion,plazo_seguimiento
+E1,R1,D1,caja,1000.00,950.00,50.00,MXN,Caja R1,Recontar con repartidor R1 y rastrear entrega de efectivo,POR_ACORDAR
+E2,R1,D2,firma,1,0,1,evidencia,Repartidor R1,Recuperar firma de P2 sin retrasar REP de C2,POR_ACORDAR
+E3,R2,D4,retorno,1,0,1,caja,Almacen,Verificar con repartidor R2 la caja DEV2 y registrar recepcion real,POR_ACORDAR
+E4,R2,D5,transferencia,150.00,100.00,50.00,MXN,Tesoreria,Confirmar aplicacion de ABONO-5 y cobrar o aclarar 50.00,POR_ACORDAR
+E5,R2,D5,cobranza,200.00,150.00,50.00,MXN,Cobranza,Cobrar o autorizar credito por 50.00 que no se declaro cobrado,POR_ACORDAR

@@ -1,0 +1,5 @@
+id,ruta,documento,fecha_pago,medio,moneda,declarado,confirmado,soporte,parcialidad
+C1,R1,D1,2026-10-28T10:05:00-06:00,efectivo,MXN,1000.00,1000.00,RECIBO-1,1
+C2,R1,D2,2026-10-28T11:05:00-06:00,transferencia,MXN,400.00,400.00,ABONO-2,1
+C5,R2,D5,2026-10-28T11:35:00-06:00,transferencia,MXN,150.00,100.00,ABONO-5,1
+C6,R2,D6,2026-10-28T12:35:00-06:00,efectivo,MXN,100.00,100.00,RECIBO-6,1

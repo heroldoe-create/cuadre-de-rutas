@@ -1,0 +1,7 @@
+documento,foto,firma,hora,receptor,estado_escenario
+D1,FOTO-1,FIRMA-1,2026-10-28T10:00:00-06:00,Cliente ficticio 1,verificado ficticio
+D2,FOTO-2,,2026-10-28T11:00:00-06:00,Cliente ficticio 2,falta firma
+D3,FOTO-3,FIRMA-3,2026-10-28T12:00:00-06:00,Cliente ficticio 3,verificado ficticio
+D4,FOTO-4,FIRMA-4,2026-10-28T10:30:00-06:00,Cliente ficticio 4,verificado ficticio
+D5,FOTO-5,FIRMA-5,2026-10-28T11:30:00-06:00,Cliente ficticio 5,verificado ficticio
+D6,FOTO-6,FIRMA-6,2026-10-28T12:30:00-06:00,Cliente ficticio 6,verificado ficticio

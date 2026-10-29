@@ -1,0 +1,3 @@
+id,ruta,documento,declarado,recibido,folio_recepcion,motivo,responsable
+DEV1,R1,D2,1,1,REC-1,rechazo comercial,Almacen
+DEV2,R2,D4,1,0,,rechazo comercial,Repartidor R2

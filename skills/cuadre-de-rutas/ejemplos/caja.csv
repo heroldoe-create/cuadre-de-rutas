@@ -1,0 +1,3 @@
+ruta,moneda,fondo,gastos_autorizados,retiros_acreditados,contado,recibo_caja,responsable
+R1,MXN,0.00,0.00,0.00,950.00,CAJA-1,Caja R1
+R2,MXN,0.00,0.00,0.00,100.00,CAJA-2,Caja R2

@@ -1,0 +1,7 @@
+ruta,documento,parada,producto,unidad,carga,entregado,precio_final,remision
+R1,D1,P1,CAJA-A,caja,10,10,100.00,SAL-1
+R1,D2,P2,CAJA-B,caja,5,4,100.00,SAL-2
+R1,D3,P3,CAJA-C,caja,4,4,100.00,SAL-3
+R2,D4,P4,CAJA-D,caja,3,2,100.00,SAL-4
+R2,D5,P5,CAJA-E,caja,2,2,100.00,SAL-5
+R2,D6,P6,CAJA-F,caja,1,1,100.00,SAL-6

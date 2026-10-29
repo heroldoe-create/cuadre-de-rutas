@@ -1,0 +1,7 @@
+documento,factura,rep,importe_rep_propuesto,saldo_tras_pago_confirmado,limite_rep,estado_plazo,fiscal,motivo,responsable,siguiente_accion
+D1,YA_EMITIDA,NO_PROPONER_REP,0.00,0.00,,NO_APLICA,PENDIENTE_REVISION_CONTADOR,PUE ya emitida; faltante de caja es custodia (E1),Facturacion,Ninguna fiscal; seguir E1
+D2,YA_EMITIDA,LIBERABLE_REP,400.00,0.00,2026-11-05,EN_PLAZO,PENDIENTE_REVISION_CONTADOR,Pago C2 acreditado 400; firma faltante (E2),Contador,Revisar y timbrar REP 400 antes del 2026-11-05
+D3,LIBERABLE_FACTURA,SIN_PAGO_REP,0.00,400.00,,NO_APLICA,PENDIENTE_REVISION_CONTADOR,Entrega completa a credito CRED-3,Facturacion,Revisar y emitir factura 400 a credito
+D4,LIBERABLE_FACTURA,SIN_PAGO_REP,0.00,200.00,,NO_APLICA,PENDIENTE_REVISION_CONTADOR,Entrega de 2 cajas firmada a credito CRED-4; caja DEV2 sin recepcion (E3),Facturacion,Revisar y emitir factura 200 a credito; seguir E3
+D5,YA_EMITIDA,RETENER_REP,0.00,DESCONOCIDO,2026-11-05,EN_PLAZO,PENDIENTE_REVISION_CONTADOR,ABONO-5 acredita 100 en banco; aplicacion a D5 pendiente; saldo antes de aplicacion 200; si se confirma aplicacion de 100 el saldo resulta 100; declarado 150 contra abono 100 (E4); 50 sin pago ni credito (E5),Tesoreria,Confirmar aplicacion de ABONO-5; si aplica REP 100 antes del 2026-11-05
+D6,YA_EMITIDA,LIBERABLE_REP,100.00,0.00,2026-11-05,EN_PLAZO,PENDIENTE_REVISION_CONTADOR,Pago C6 acreditado 100,Contador,Revisar y timbrar REP 100 antes del 2026-11-05

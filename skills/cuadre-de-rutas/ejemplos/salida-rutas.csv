@@ -1,0 +1,3 @@
+ruta,unidad,carga,entregado,retorno_declarado,retorno_recibido,diferencia_fisica,moneda,valor_entregado,efectivo_esperado,efectivo_contado,diferencia_caja,transferencia_declarada,transferencia_confirmada,diferencia_transferencia,credito_autorizado
+R1,caja,19,18,1,1,0,MXN,1800.00,1000.00,950.00,50.00,400.00,400.00,0.00,400.00
+R2,caja,6,5,1,0,1,MXN,500.00,100.00,100.00,0.00,150.00,100.00,50.00,200.00
